@@ -1,3 +1,3 @@
 # App-demo
-Test Git repository
+Test Git Repository.
 Author - Mehraj Mehmood
